@@ -1,8 +1,8 @@
 
 /**
- * Write a description of class dice here.
+ * Fun game to play casualy with friends or in a casino.
  *
- * @author (your name)
+ * @author (Chandler Washington)
  * @version (a version number or a date)
  */
 import java.util.Scanner;
