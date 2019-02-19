@@ -68,3 +68,25 @@ public class Craps
    
     }
 }
+
+
+/* 
+
+COMMENTS FROM THE INSTRUCTOR:
+
+Really nice work on this, Chandler. The game play is just as it should
+be, and I even one a few! 
+
+You should have included the "default(Y/N)" option as described in the
+handout. That way a default value of "Y" (or "N", depending) can be
+entered by the user by simply hitting the [Enter] key. You should
+check that out so that you can include it in future assignments.
+
+This was a little late as well. Get on that! :)
+
+Otherwise, nice work. See you during E period!
+
+SCORE: 45
+
+*/
+
